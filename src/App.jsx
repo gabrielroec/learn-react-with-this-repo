@@ -1,9 +1,9 @@
 import "./App.css";
-import Post from "./lessons/lesson-1/Post";
+import PostStyled from "./lessons/lesson-2/PostStyled";
 function App() {
   return (
     <>
-      <Post
+      <PostStyled
         author="Gabriel Roec"
         body="How to passing data to components with props"
       />
