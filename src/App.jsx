@@ -1,14 +1,7 @@
 import "./App.css";
-import PostStyled from "./lessons/lesson-2/PostStyled";
+import NewComponent from "./lessons/lesson-3/NewComponent";
 function App() {
-  return (
-    <>
-      <PostStyled
-        author="Gabriel Roec"
-        body="How to passing data to components with props"
-      />
-    </>
-  );
+  return <NewComponent />;
 }
 
 export default App;
