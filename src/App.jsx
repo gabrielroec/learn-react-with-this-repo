@@ -1,5 +1,5 @@
 import "./App.css";
-import Post from "./components/Post";
+import Post from "./lessons/lesson-1/Post";
 function App() {
   return (
     <>
