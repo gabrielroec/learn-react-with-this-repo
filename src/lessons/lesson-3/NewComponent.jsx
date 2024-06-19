@@ -1,5 +1,3 @@
-import React from "react";
-
 const SimpleForm = () => {
   const handleInputChange = (event) => {
     console.log(event.target.value);

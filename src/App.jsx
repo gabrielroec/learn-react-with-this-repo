@@ -1,5 +1,5 @@
 import "./App.css";
-import NewComponent from "./lessons/lesson-3/NewComponent";
+import NewComponent from "./lessons/lesson-4/NewComponent";
 function App() {
   return <NewComponent />;
 }
