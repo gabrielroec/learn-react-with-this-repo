@@ -1,6 +1,6 @@
-# Learn ReactJs with this repository
+#1 - Learn ReactJs with this repository
 
-This reposytore hava a porpouse to teach you React Js from easier to harder
+This repository have a porpouse to teach you React Js from easier to harder
 
 ## Passing Data to Components with Props
 ### 🔗 Links
